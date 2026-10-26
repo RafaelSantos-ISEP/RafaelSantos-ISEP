@@ -1,10 +1,10 @@
-# Olá, sou o Rafael 👋
+# Hi, I'm Rafael 👋
 
-- 🎓 Estudo no **ISEP** (Instituto Superior de Engenharia do Porto)
-- 💼 Trabalho no **CEiiA** (Centro de Engenharia e Desenvolvimento)
+- 🎓 Studying at **ISEP** (School of Engineering, Polytechnic of Porto)
+- 💼 Working at **CEiiA** (Centre of Engineering and Product Development)
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
 - 📧 **Email:** [1261620@isep.ipp.pt](mailto:1261620@isep.ipp.pt)
